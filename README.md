@@ -25,6 +25,7 @@ automation, salaried or contract. Also freelance Linux / self-hosting projects.
 - **[discord-presence-suite](https://github.com/pxlwh/discord-presence-suite):** four token-free Discord rich-presence daemons (Steam, Navidrome, homelab, Jellyfin). Async Python with D-Bus/MPRIS, Prometheus, and Jellyfin API integration.
 - **[prod-is-red](https://github.com/pxlwh/prod-is-red):** your terminal changes color depending on which machine you're typing into. Production is red. Per-host palette + window border on ssh, driven entirely by the remote's terminal title, so nothing tracks state.
 - **[booru-viewer](https://github.com/pxlwh/booru-viewer):** cross-platform Qt6 desktop image browser. Fully themeable, zero telemetry.
+- **[p1-osu-skin](https://github.com/pxlwh/p1-osu-skin):** an osu! skin rendered entirely from code. A Python + Pillow generator draws every element at 4x and downsamples, packs a release `.osk`, and renders its own gameplay preview.
 
 ### Research Projects
 
